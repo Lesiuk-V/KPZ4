@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KPZ4", "KPZ4\KPZ4.csproj", "{83F4AF5D-A16C-4549-9F8D-71DA648950E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointLibrary", "PointLibrary\PointLibrary.csproj", "{07484056-0CC4-4964-8FC2-617F448475F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83F4AF5D-A16C-4549-9F8D-71DA648950E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F4AF5D-A16C-4549-9F8D-71DA648950E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F4AF5D-A16C-4549-9F8D-71DA648950E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F4AF5D-A16C-4549-9F8D-71DA648950E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07484056-0CC4-4964-8FC2-617F448475F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07484056-0CC4-4964-8FC2-617F448475F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07484056-0CC4-4964-8FC2-617F448475F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07484056-0CC4-4964-8FC2-617F448475F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65D75DBA-1E17-427A-B719-B5BDE0F5B6AC}
+	EndGlobalSection
+EndGlobal
